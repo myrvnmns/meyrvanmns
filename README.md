@@ -1,4 +1,4 @@
-### Hello!👋 i'm Meyrvan just call Irvan.
+### Hello!👋i'm Meyrvan just call Irvan.
 Now i'm learning at Bangkit Academy program Study Independent, I'm interested in skills in the Data field.
 
 Here are some ideas to get you started:
