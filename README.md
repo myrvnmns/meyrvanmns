@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: myrvanmns@gmail.com
 - 🗣 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/meyrvanmns/) account
 
+### GitHub Statistic
+
+<p align="left">
+<a href="https://github.com/meyrvanmns">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meyrvanmns&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meyrvanmns&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
