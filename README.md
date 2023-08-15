@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+- 🎓 I am currently studying at the College Integrated Technology Nurul Fikri can be known STT-NF
 - 🌱 I’m currently learning at Bangkit Academy
 - 📫 How to reach me: myrvanmns@gmail.com
+- 🗣 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/meyrvanmns/) account
 
